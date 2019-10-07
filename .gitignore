@@ -125,9 +125,9 @@ typings/
 .env
 
 #### yeoman ####
-node_modules/
+#node_modules/
 bower_components/
-*.log
+#*.log
 
 dist/
 
@@ -147,3 +147,5 @@ jest_*/
 .jscpd/
 
 .vscode
+.idea
+package-lock.json
